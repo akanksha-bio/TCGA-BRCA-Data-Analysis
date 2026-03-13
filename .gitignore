@@ -1,5 +1,8 @@
 #data file larger than git file size limit
 data/tcga.brca.rsem.csv 
+processed/rna_normalized.parquet
+
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
