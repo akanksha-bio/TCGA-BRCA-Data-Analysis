@@ -1,3 +1,6 @@
+#data file larger than git file size limit
+data/tcga.brca.rsem.csv 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

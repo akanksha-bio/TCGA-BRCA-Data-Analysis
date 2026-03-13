@@ -1,0 +1,12 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.13
+scikit-learn>=1.3
+umap-learn>=0.5
+statsmodels>=0.14
+pydeseq2>=0.4       # official DESeq2 Python port
+pyarrow>=14.0       # for parquet support
+jupyter>=1.0
+ipykernel>=6.0      # required for VS Code notebook kernel registration
+nbconvert>=7.0      # for running notebooks from the command line
